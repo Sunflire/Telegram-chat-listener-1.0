@@ -1,4 +1,4 @@
-# Telegram-chat-listener-1.0
+# Telegram-chat-listener-1.1
 Created by Sunflire
 
 I am not responsible for any harm to anyone or anything that this code may cause.
