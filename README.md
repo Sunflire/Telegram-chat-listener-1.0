@@ -3,6 +3,16 @@ Created by Sunflire
 
 I am not responsible for any harm to anyone or anything that this code may cause.
 
+# What can this code do?
+This bot was created with the purpose of creating a backup copy of a group chat in a telegram bot.
+
+What can this bot save?
+Currently v1.1 the bot can save current extensions:
+
+- Text messages
+- Voice messages
+- Images
+
 # How to use?
 
 Set your bot token, group chat ID and user ID to send here
