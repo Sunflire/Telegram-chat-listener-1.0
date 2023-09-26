@@ -3,7 +3,7 @@ Created by Sunflire
 
 I am not responsible for any harm to anyone or anything that this code may cause.
 
-# What can this code do?
+# What can this bot do?
 This bot was created with the purpose of creating a backup copy of a group chat in a telegram bot.
 
 What can this bot save?
