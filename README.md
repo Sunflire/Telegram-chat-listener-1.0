@@ -5,7 +5,7 @@ I am not responsible for any harm to anyone or anything that this code may cause
 
 # How to use?
 
--Set your bot token, group chat ID and user ID to send here
+Set your bot token, group chat ID and user ID to send here
 
 1. BOT_TOKEN = 'YOUR_BOT_TOKEN' # Replace with your Bot Token
 2. GROUP_CHAT_ID = YOUR_GROUP_ID  # Replace with your group ID
